@@ -1,0 +1,15 @@
+src
+scripts
+.github
+docs
+
+components.json
+tsconfig.json
+tsup.config.ts
+
+*.log
+.DS_Store
+.env*
+
+node_modules
+dist/*.map
