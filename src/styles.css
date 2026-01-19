@@ -1,5 +1,7 @@
 @source "./**/*.{js,cjs}";
 
+@import "tw-animate-css";
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
